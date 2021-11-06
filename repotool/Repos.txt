@@ -1,0 +1,3 @@
+http://cydia.kiiimo.org/
+https://repo.hackyouriphone.org/
+https://repo.dynastic.co/

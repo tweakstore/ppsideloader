@@ -1,0 +1,178 @@
+#EXTM3U
+
+#EXTINF:-1 iso-id="US" type-id="#004" tvg-logo="https://i.imgur.com/1XIG1vY.png" group-title="Live Events",Basketball Playlist 🏀 
+XmoUNb2=|CZEtpIbapOqa&IqaZ*Ooeba-?iaA9(DWmR%)Jva
+
+#EXTINF:-1 iso-id="US" type-id="#002" tvg-logo="https://i.imgur.com/wqbPC0s.png" group-title="Live Events",NCAA Playlist 🏈
+XmoUNb2=|CZEtpIbapOqa&IqgV_{(~ba-?iaA9(DWmR%)Jva
+
+#EXTINF:-1 iso-id="US" type-id="#017" tvg-logo="https://i.imgur.com/uvQ9HkL.png" group-title="Live Events",NHL Playlist 🏒
+XmoUNb2=|CZEtpIbapOqa&IqgXlyQYcyu6eVRCb2RdQ@SH~
+
+#EXTINF:-1 type-id="#014"  tvg-logo="https://i.imgur.com/wvPyuco.png" group-title="Sports",Formula 1
+XmoUNb2=|CV`OeJE@N_OV`yY9aB^=iWo=?*WHK&rXmCGiWIc0hd2?`PF(z?6Q)_u8GB8tcZ*p{VB{DEZF(7bZa&u)>a%?>@
+
+#EXTINF:-1 type-id="#014"  tvg-logo="https://i.imgur.com/wvPyuco.png" group-title="Sports",Formula 1 (2)
+XmoUNb2=|CWMO1vd2DHRWiD-HFLN??FLQKqWnpbCHZU%5XmB8KVRCb2RdQ@SF#
+
+#EXTINF:-1 type-id="#014"  tvg-logo="https://i.imgur.com/wvPyuco.png" group-title="Sports",Formula 1 (3)
+XmoUNb2=|CXk=qyb96B>GcIFqZ7*eQVr675aA<HpaBN|DWpX`aWpitEZ*V4dJ#%Y$b7pUHF(7bZa&u)>a%?>@
+
+#EXTINF:-1 type-id="#014"  tvg-logo="https://i.imgur.com/wvPyuco.png" group-title="Sports",Formula 1 (4)
+XmoUNb2=|CcXxL#c4=^OZ+9+jWiNAUc`b8rZ*p{VEoLz-b8C4mW-%>qZft38Wi4}ba%Ev{EioW)VRCb2RdQ@SF#
+
+#EXTINF:-1 type-id="#004" iso-id="US" tvg-logo="https://i.imgur.com/R6aTGy6.png" group-title="Sports",BASKET TV
+XmoUNIxjCVGBb2`Zf|!kV{dIQcVTp6XfJMJVJ&oaFCcJXa&u)>a%?>@
+
+#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.imgur.com/eSTM7Rd.png" group-title="Live Events",#SmackDown 
+XmoUNb2=|Cb8v5RbaQWRY-w&~E_81%V`yP+Ze?t9FK~1(b8v5RbaZw!E^ugYAaG%Fb7fU>Y&|g
+
+#EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.imgur.com/eSTM7Rd.png" group-title="Live Events",#SmackDown (2)
+XmoUNb2=|CWMO1vd2DHRWiD-HFJ*0FWn?dNbaG{3Z7nk~E^ugYAaG%Fb7fU>Y&|g
+
+EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.imgur.com/eSTM7Rd.png" group-title="Live Events",#SmackDown (3)
+XmoUNb2=|CWMO1vd2DHRWiD-HFJ*0FWn?dNbaG{3Z7nr4E^ugYAaG%Fb7fU>Y&|g
+
+EXTINF:-1 iso-id="US" type-id="#009" tvg-logo="https://i.imgur.com/eSTM7Rd.png" group-title="Live Events",#SmackDown (4)
+XmoUNb2=|Cb8v5RbaQWRY-w&~E_81%V`yP+Ze?t9FKA>hXk;-iaA<HKaA9(DWmR%)Juv
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/FjDaQeS.png" group-title="Sports",ESPN 
+XmoUNb2=|CcXxL#c4=^OZ+9+jWiMrOaBeMcZft38Wi4}ba%Ev{EioW)VRCb2RdQ@SF#
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/FjDaQeS.png" group-title="Sports",ESPN (2)
+XmoUNb2=|CcXxL#b98cPYh`bBbS`6KFLQKqWnpbCWpi+DEo^CaWgu{2a&u)>a%?>@
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/FjDaQeS.png" group-title="Sports",ESPN (3)
+XmoUNb2=|CcXxL#c4=^OZ+9+jWiMrOaBeMcZft38Wi4}ba%Ev{Eixc*VRCb2RdQ@SF#
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/FjDaQeS.png" group-title="Sports",ESPN (4)
+XmoUNIxjCVGBb2`E^KLbWiNMObYo~QWpi+DEiy1NF)%hUF(7bZa&u)>a%?>@H2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/hekwWOE.png" group-title="Sports",ESPN 2 
+XmoUNb2=|CcXxL#c4=^OZ+9+jWiMrOaBea!Z*FX9Ze=ZVbaG{3Z7nh&aA9(DWmR%)Juv
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/hekwWOE.png" group-title="Sports",ESPN 2 (2)
+XmoUNb2=|CcXxL#b98cPYh`bBbS`6KFJ*IZZZa)%baG{3Z7nh&aA9(DWmR%)Juv
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/hekwWOE.png" group-title="Sports",ESPN 2 (3)
+XmoUNb2=|Cb#rufXKyZab}wafaBea!Y-x67FCcJXa&u)>a%?>@H2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/hekwWOE.png" group-title="Sports",ESPN 2 (4)
+XmoUNIxjCVGBb2`Zf|!kV{dIQcVTp6XfI`RaBea$AaG%Fb7fU>Y&|hG
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/38a5EIh.png" group-title="Sports",ESPN U 
+XmoUNIxjDDb}}?KE_HJ+cVTp6XfI`RaBeMiFCcJXa&u)>a%?>@H2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/38a5EIh.png" group-title="Sports",ESPN U (2)
+XmoUNIxjD5X?A5fG<0udVR<fNZ*4DkVRU0?FJ*IZZgnppaA9(DWmR%)Jux)
+
+#EXTINF:-1 iso-id="AR" tvg-logo="https://i.imgur.com/ucCoXtU.png" group-title="Sports",ESPN SUR
+XmoUNb2=|CVqs`$VPs`+Z*p{Hb1q|VZ7*eWaBd)QVRCb2RdQ@SF#
+
+#EXTINF:-1 iso-id="AR" tvg-logo="https://i.imgur.com/ucCoXtU.png" group-title="Sports",ESPN SUR (2)
+XmoUNb2=|CVqs`$VPs`+Z*p{Hb1q|VZ7*YCZeeU?b1!9caBePeXmB8KVRCb2RdQ@SF#
+
+#EXTINF:-1 iso-id="AR" tvg-logo="https://i.imgur.com/ThRy3uu.png" group-title="Sports",ESPN SUR 2
+XmoUNb2=|CaAj<7bY*gHE^cLXFJ*IZZZc?OE^ugYAaG%Fb7fU>Y&|g
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/SjBkwpH.png" group-title="Sports",FS1 
+XmoUNb2=|CcXxL#b98cPYh`bBbS`dnFJ^CeEpu>ha&&VoF)ed+a%Ev{EioW)VRCb2RdQ@SF#
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/SjBkwpH.png" group-title="Sports",FS1 (2)
+XmoUNIxjDDb}}?KE_HJ+cVTp6XfI}Ocr9~qZ*p{VEio@3aA9(DWmR%)Juv
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/yPPoxGB.png" group-title="Sports",FS2 
+XmoUNb2=|CcXxL#b98cPYh`bBbS`6KFJ^CeEpu>ha&&VoGA(m-a%Ev{EioW)VRCb2RdQ@SF#
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/yPPoxGB.png" group-title="Sports",FS2 (2)
+XmoUNIxjDDb}}?KE_HJ+cVTp6XfI}Ocr9~qZ*p{VEix}4aA9(DWmR%)Juv
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/yPPoxGB.png" group-title="Sports",FS2 (3)
+XmoUNb2=|Cb#rufXKyZab}wdccr9~qZ*p{VEix}4aA9(DWmR%)Jux)
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/JnFp3mA.png" group-title="Sports",MLB NETWORK 
+XmoUNIxjDDb}}?KE_HJ+cVTp6XfJJSVl8fEba!uZYcC*hVRCb2RdQ@SF#
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/JnFp3mA.png" group-title="Sports",MLB NETWORK (2)
+XmoUNb2=|Cb#rufXKyZab}wygVl8fEba!uZYcC*hVRCb2RdQ@SF*N
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/77JHLO9.png" group-title="Sports",NFL NETWORK 
+XmoUNIxjC`b!KLBbaG{3Z7ykVFJ*0FFK%XREpv2oWnpb|FK%XREpBCWcW-iQEo^CaWi4}ba%Ev{AaG%Fb7fU>Y&|g
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/kdFVWev.png" group-title="Sports",NHL NETWORK
+XmoUNb2=|CcXxL#b98cPYh`bBbS`dnFK%dTEpBCWcW-iQEpv2oWnpbCF(7bZa&u)>a%?>@
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/kdFVWev.png" group-title="Sports",NHL NETWORK (2)
+XmoUNIxjCbGB9v+baG{3Z7y?VFKlUcWi4)KY%OkOba!uZYb|qha%Ev{AaG%Fb7fU>Y&|g
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/etxn187.png" group-title="Entertainment",ABC 
+XmoUNb2=|Cb#rufXKyZab}wOKV=ZiHc4aMdbaG{3ZE0?2EoO3MWiKFbVRCb2RdQ@SF*N
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/4zgY98s.png" group-title="Entertainment",BET 
+XmoUNIxjD5X?A5fG<0udVR<fNZ*4DkVRU0?FJfhMFCcJXa&u)>a%?>@H2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/15BFE9k.png" group-title="Entertainment",CBS 
+XmoUNb2=|Cb#rufXKyZab}wUMb1iIXc4aMdbaG{3ZE0?2EoO3MWiKFbVRCb2RdQ@SF*N
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/15BFE9k.png" group-title="Entertainment",CBS (2)
+XmoUNIxjDDb}}?KE_HJ+cVTp6XfI=8b1xupVRCb2RdQ@SF#
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/1wyWjYq.png" group-title="Entertainment",FOX 
+XmoUNb2=|CcXxL#b98cPYh`bBbS`dnFJ^CeEpv2oWnpbCF(7bZa&u)>a%?>@
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/1wyWjYq.png" group-title="Entertainment",FOX (2)
+XmoUNb2=|Cb#rufXKyZab}wdccr9pTEo^CaWi4}ba%Ev{X>MmPAaG%Fb7fU>Y&|hG
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/42FuXrK.png" group-title="Entertainment",HBO
+XmoUNb2=|Cb#rubWnpbDbZ;+ZZDM6)KWSt=Xku?Ib#q}LaA9(DWmR%)Jux)
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/BYNWdtj.png" group-title="Entertainment",HGTV 
+XmoUNb2=|Cb#rufXKyZab}wjWbapLlX?A5Tb98cLVQpz{XDw!OWo0iQaA9(DWmR%)Jux)
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/BYNWdtj.png" group-title="Entertainment",HGTV (2)
+XmoUNIxjDDb}}?KE_HJ+cVTp6XfJ4IbapQwaA9(DWmR%)Juv
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/blbkfwq.png" group-title="Entertainment",MTV Channel
+XmoUNb2=|Cb#rufXKyZab}wyob}t}sVRCb2RdQ@SF*N
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/blbkfwq.png" group-title="Entertainment",MTV Channel (2)
+XmoUNIxjD5X?A5fG<0udVR<fNZ*4DkVRU0?FKu*oFCcJXa&u)>a%?>@H2
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/LjxWto1.png" group-title="Entertainment",LIFETIME
+XmoUNb2=|Cb#rufXKyZab}wvcW@U6~ZDlQEXkl({Wo#{MX?A5VAaG%Fb7fU>Y&|hG
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/fXL0qPa.png" group-title="Entertainment",TBS
+XmoUNb2=|CcXxL#b98cPYh`bBbS`dnFLYvaEp&D*b98cLVQnojAaG%Fb7fU>Y&|g
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/fXL0qPa.png" group-title="Entertainment",TBS (2)
+XmoUNIxjDDb}}?KE_HJ+cVTp6XfJePb1xupVRCb2RdQ@SF#
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/fXL0qPa.png" group-title="Entertainment",TBS (3)
+XmoUNb2=|Cb#rufXKyZab}w{db1h?NVQy|^Y%OeQc4aMQa%E*NAaG%Fb7fU>Y&|hG
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/2Oow8yv.png" group-title="Entertainment",TNT 
+XmoUNIxjDDb}}?KE_HJ+cVTp6XfJebbT1%qVRCb2RdQ@SF#
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/6qpUoiq.png" group-title="Entertainment",VH1
+XmoUNIxjDDb}}?KE_HJ+cVTp6XfJkXF)tu+VRCb2RdQ@SF#
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/wqGs39J.png" group-title="Entertainment",USA Network 
+XmoUNb2=|Cb8v5RbaP^1c`jpPFLQKqWnpbDaA<HpX=FWhb0BbGa&u)>a%?>^
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/4HPo1fC.png" group-title="News",CNN 
+XmoUNb2=|Cb#rufXKyZab}wUYZY^wSc4aMdbaG{3ZE0?2EoO3MWiKFbVRCb2RdQ@SF*N
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/pDBoA5S.png" group-title="News",FOX News 
+XmoUNb2=|Cb#rufXKyZab}wdccr9*acXKUlX?A5Tb98cLVQpz{XDw!OWo0iQaA9(DWmR%)Jux)
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/1JxVtl0.png" group-title="News",MSNBC 
+XmoUNb2=|CcXxL#Y-x67Ze@3KZf|!kV{dIQW@TY?b#i57FKu&fVq-37bZu-PaA9(DWmR%)Juxx
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/1JxVtl0.png" group-title="News",MSNBC (2)
+XmoUNb2=|Cb#rufXKyZab}wynZen9EAaG%Fb7fU>Y&|hD
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/Ui4wuoz.png" group-title="Kids",Cartoon Network 
+XmoUNb2=|Cb#rufXKyZab}wULa&&KRZY^$Qba!uZYcC*hVRCb2RdQ@SF*N
+
+#EXTINF:-1 iso-id="US" tvg-logo="https://i.imgur.com/9BKMDjk.png" group-title="Kids",Nickelodeon
+XmoUNb2=|Cb#rufXKyZab}w#eV{2t>Z)9a}ZY^wSc4aMdbaG{3ZE0?2EoO3MWiKFbVRCb2RdQ@SF*N
